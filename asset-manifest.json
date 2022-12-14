@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dideploykeun/static/css/main.a5c537fd.css",
+    "main.js": "/dideploykeun/static/js/main.88473d92.js",
+    "index.html": "/dideploykeun/index.html",
+    "main.a5c537fd.css.map": "/dideploykeun/static/css/main.a5c537fd.css.map",
+    "main.88473d92.js.map": "/dideploykeun/static/js/main.88473d92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5c537fd.css",
+    "static/js/main.88473d92.js"
+  ]
+}
