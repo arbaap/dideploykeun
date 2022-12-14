@@ -5,7 +5,10 @@ class Footer extends React.Component {
     return (
       <div className="footer">
         <div className="footer-logo">
-          <img src="http://if.uinsgd.ac.id/wp-content/uploads/2016/08/h4.png" />
+          <img
+            src="http://if.uinsgd.ac.id/wp-content/uploads/2016/08/h4.png"
+            alt=""
+          />
           <p>
             The href attribute is required for an anchor to be keyboard
             accessible.

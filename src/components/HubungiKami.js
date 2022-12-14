@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "../components/Header";
-import Footer from "../components/Footer";
-import HubungiKamiForm from "../components/HubungiKamiForm";
+import Header from "./Header";
+import Footer from "./Footer";
+import HubungiKamiForm from "./HubungiKamiForm";
 
 function HubungiKami() {
   return (

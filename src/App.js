@@ -9,7 +9,7 @@ function App() {
     <div>
       <div>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/arbaap.github.io/dideploykeun" element={<Home />} />
           <Route path="/hubungi-kami" element={<HubungiKami />} />
         </Routes>
       </div>

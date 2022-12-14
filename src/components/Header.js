@@ -9,6 +9,7 @@ class Header extends React.Component {
             <img
               className="img-logo"
               src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png"
+              alt=""
             />
           </Link>
         </div>
